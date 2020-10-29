@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{33A84CE7-5F92-4874-B516-D1257893192A}|Default">
+  <MonoDevelop.Ide.ItemProperties.ServerVideo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ServerVideo/Program.cs">
+    <Files>
+      <File FileName="ServerVideo/Program.cs" Line="30" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="ServerVideo" expanded="True">
+            <Node name="ServerVideo" expanded="True">
+              <Node name="ServerVideo" expanded="True">
+                <Node name="ServerVideo.Program" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
